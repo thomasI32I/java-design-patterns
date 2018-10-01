@@ -47,6 +47,8 @@ import java.util.Map;
 public class App {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
+  
+  //added test command
 
   /**
    * Executes the App
