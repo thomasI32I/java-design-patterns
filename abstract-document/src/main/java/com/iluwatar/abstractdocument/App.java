@@ -49,6 +49,7 @@ public class App {
   private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
   
   //added test command
+  //test123
 
   /**
    * Executes the App
