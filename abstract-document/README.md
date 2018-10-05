@@ -27,3 +27,5 @@ Use the Abstract Document Pattern when
 
 * [Wikipedia: Abstract Document Pattern](https://en.wikipedia.org/wiki/Abstract_Document_Pattern)
 * [Martin Fowler: Dealing with properties](http://martinfowler.com/apsupp/properties.pdf)
+
+//test test
